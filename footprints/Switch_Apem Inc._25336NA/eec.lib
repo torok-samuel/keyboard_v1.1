@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Apem Inc. 25336NA
+#
+DEF 25336NA SW 0 40 Y Y 1 L N
+F0 "SW" 0 300 50 H V L CNN 
+F1 "25336NA" 0 400 50 H V L CNN 
+F2 "Apem_Inc.-25336NA-*" 0 500 50 H I L CNN 
+F3 "https://www.apem.com/int/index.php?controller=attachment&id_attachment=858" 0 600 50 H I L CNN 
+F4 "No" 0 700 50 H I L CNN "automotive"
+F5 "Switch" 0 800 50 H I L CNN "category"
+F6 "1A" 0 900 50 H I L CNN "contact current rating"
+F7 "10mΩ" 0 1000 50 H I L CNN "contact resistance"
+F8 "Electromechanical" 0 1100 50 H I L CNN "device class L1"
+F9 "Switches" 0 1200 50 H I L CNN "device class L2"
+F10 "Slide Switches" 0 1300 50 H I L CNN "device class L3"
+F11 "SWITCH SLIDE SPDT 4A 125V" 0 1400 50 H I L CNN "digikey description"
+F12 "679-1893-ND" 0 1500 50 H I L CNN "digikey part number"
+F13 "10000Cycles" 0 1600 50 H I L CNN "electromechanical life"
+F14 "8.1mm" 0 1700 50 H I L CNN "height"
+F15 "Yes" 0 1800 50 H I L CNN "lead free"
+F16 "a166565a7e558541" 0 1900 50 H I L CNN "library id"
+F17 "Apem Inc." 0 2000 50 H I L CNN "manufacturer"
+F18 "Through Hole" 0 2100 50 H I L CNN "mount"
+F19 "Slide Switches ON - ON SIDE ADJ.\\n" 0 2200 50 H I L CNN "mouser description"
+F20 "642-25336NA" 0 2300 50 H I L CNN "mouser part number"
+F21 "SW_9MM8_14MM1" 0 2400 50 H I L CNN "package"
+F22 "Yes" 0 2500 50 H I L CNN "rohs"
+F23 "+85°C" 0 2600 50 H I L CNN "temperature range high"
+F24 "-40°C" 0 2700 50 H I L CNN "temperature range low"
+F25 "30V" 0 2800 50 H I L CNN "voltage rating DC"
+DRAW
+X Common 3 100 0 100 R 40 0 1 1 P 
+X 1 1 500 100 100 L 40 0 1 1 P 
+X 2 2 500 -100 100 L 40 0 1 1 P 
+C 230 0 20 1 1 0 N
+C 370 100 20 1 1 0 N
+P 2 1 1 0 230 0 390 70 N
+C 370 -100 20 1 1 0 N
+ENDDRAW
+ENDDEF
+#
+# End Library
