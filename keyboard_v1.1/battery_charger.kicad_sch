@@ -2490,7 +2490,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8b40db14-fc4e-428a-9f43-0ad2413e5ae1)
     (property "Reference" "SW13" (id 0) (at 270.51 102.87 0))
-    (property "Value" "25336NA" (id 1) (at 270.51 105.41 0))
+    (property "Value" "MTS-102" (id 1) (at 270.51 105.41 0))
     (property "Footprint" "Switch_ApemInc:Apem_Inc.-25336NA-MFG" (id 2) (at 262.89 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )

@@ -714,7 +714,7 @@
       (reference "SW12") (unit 1) (value "Cherry_MX_1u") (footprint "cherry_mx:SW_Cherry_MX_PCB_1.00u")
     )
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/8b40db14-fc4e-428a-9f43-0ad2413e5ae1"
-      (reference "SW13") (unit 1) (value "25336NA") (footprint "Switch_ApemInc:Apem_Inc.-25336NA-MFG")
+      (reference "SW13") (unit 1) (value "MTS-102") (footprint "Switch_ApemInc:Apem_Inc.-25336NA-MFG")
     )
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/b7370d6b-1dcd-4406-bcd3-b26ada4707f3"
       (reference "TH1") (unit 1) (value "Thermistor_NTC") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
