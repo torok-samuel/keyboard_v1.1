@@ -104,6 +104,18 @@
   )
 
   (symbol_instances
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/463deae1-1740-4179-a098-2449fb42f089"
+      (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/642451c1-9a9b-4103-9cd2-c5972e419421"
+      (reference "#PWR02") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/5a21c073-2656-4b25-9803-a096e308478e"
+      (reference "#PWR03") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/90868ab9-0185-4ebb-ad69-880fb84ced0b"
+      (reference "#PWR04") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/15bb9450-6078-40f4-9a0c-3b27173e6c06/ef9176b0-e47e-4a49-88ae-b93c87561592"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -139,6 +151,9 @@
     )
     (path "/15bb9450-6078-40f4-9a0c-3b27173e6c06/7402c61f-9380-4b87-9fec-94b7d1f509da"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cf03d940-2841-4b92-9791-c9546ac4ba17/0ada491f-7b3a-4275-b2ca-22fca6089023"
+      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
     (path "/15bb9450-6078-40f4-9a0c-3b27173e6c06/88068541-0732-4126-8066-d37980bf64c7"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
@@ -715,6 +730,18 @@
     )
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/8b40db14-fc4e-428a-9f43-0ad2413e5ae1"
       (reference "SW13") (unit 1) (value "MTS-102") (footprint "Switch_ApemInc:Apem_Inc.-25336NA-MFG")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/dd2e17cf-324d-4d4c-8a82-2b2339f138f2"
+      (reference "SW14") (unit 1) (value "SW_DIP_x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/0a534185-2a34-4045-8c23-50e106a72b98"
+      (reference "SW15") (unit 1) (value "SW_DIP_x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/f837917f-2470-46d9-8029-529813dcb197"
+      (reference "SW16") (unit 1) (value "SW_DIP_x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/57c8591c-5b7e-463c-a40b-49fb35230c29"
+      (reference "SW17") (unit 1) (value "SW_DIP_x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/b7370d6b-1dcd-4406-bcd3-b26ada4707f3"
       (reference "TH1") (unit 1) (value "Thermistor_NTC") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
