@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HX3608
+D DC-DC Converters Step-Up Adjustable 1 2V 24V 2.5V 28V 3.5A (Switch) SOT-23-6L RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1811201211_hengjiaxing-HX3608_C296278.pdf
+$ENDCMP
+#
+#End Doc Library

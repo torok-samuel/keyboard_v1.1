@@ -369,9 +369,13 @@
       "lm1117",
       "max1737",
       "max1771",
+      "SamacSys_Parts",
       "Switch_ApemInc"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "LN4056-ESOP8",
+      "SamacSys_Parts"
+    ]
   },
   "meta": {
     "filename": "keyboard_v1.0.kicad_pro",
