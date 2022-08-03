@@ -308,9 +308,6 @@
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/a78ebbee-5736-45cc-9719-4e14c08ddb68"
       (reference "#PWR0183") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/bd2fe736-49b2-4797-ac8e-52a00280b273"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
-    )
     (path "/15bb9450-6078-40f4-9a0c-3b27173e6c06/52b244f0-d4b1-494d-b147-7d3ff353e902"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
@@ -477,7 +474,10 @@
       (reference "F1") (unit 1) (value "1812L") (footprint "Littelfuse_1812L:FUSM4632X200N")
     )
     (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/0a2234c0-f735-4603-a416-3f9c5b2ebfe9"
-      (reference "IC1") (unit 1) (value "LN4056-ESOP8") (footprint "SOIC127P600X175-9N")
+      (reference "IC1") (unit 1) (value "LN4056-ESOP8") (footprint "SamacSys_Parts:SOIC127P600X175-9N")
+    )
+    (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/846143d8-a6ea-46ff-9778-2adff3d20a36"
+      (reference "J1") (unit 1) (value "Battery, TEMP") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal")
     )
     (path "/8e330684-479c-4f6f-8c95-3cb27465cf19/bd0fc8ee-c22d-4133-8e6a-9fdd47c9d8c1"
       (reference "JP1") (unit 1) (value "Jumper_3_Bridged12") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
@@ -604,9 +604,6 @@
     )
     (path "/cf03d940-2841-4b92-9791-c9546ac4ba17/a8e1c31c-adee-4d1c-aab6-197c3b41846c"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose")
-    )
-    (path "/4c63158a-4f05-4707-bee5-cd7c276e96e7/ffc07d7a-506f-4d8b-8cf0-98f0f78d1452"
-      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Keystone_5010-5014_Multipurpose")
     )
     (path "/bbf39963-bb8c-4e97-a32e-9a33924b5b1f/b18a8f5d-93fb-4a98-9033-9b3970dd966a"
       (reference "U1") (unit 1) (value "LMR62421XMF") (footprint "Package_TO_SOT_SMD:SOT-23-5")
