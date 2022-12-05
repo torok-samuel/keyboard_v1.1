@@ -440,7 +440,6 @@
     )
   )
 
-
   (junction (at 156.21 66.04) (diameter 0) (color 0 0 0 0)
     (uuid 11f005c5-3c8b-4a96-ab90-42e6890fe60b)
   )
@@ -623,7 +622,7 @@
     (uuid e81d9263-183e-49c0-b5af-069df65e9281)
   )
 
-  (text "Riset = (960V/xA)\n\ndatasheet -> Riset=1k:\n				-Min:	882  mA \n				-Typ:	960	 mA	\n				-Max:	1038 mA"
+  (text "Riset = (960V/xA)\n\ndatasheet -> Riset=1k:\n				-Min:	882  mA \n				-Typ:	960	 mA	\n				-Max:	1038 mA\n\nRiset = 2.2k -> 436mA"
     (at 21.59 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 64b4468f-dba5-48dc-8303-38e73b445c9c)
@@ -946,7 +945,7 @@
     (property "Reference" "R11" (id 0) (at 34.29 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (id 1) (at 34.29 71.1199 0)
+    (property "Value" "2k" (id 1) (at 34.29 71.1199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 29.972 69.85 90)

@@ -440,7 +440,6 @@
     )
   )
 
-
   (junction (at 71.12 72.39) (diameter 0) (color 0 0 0 0)
     (uuid 100b2333-05d9-4fdb-88a9-039a9a2ecd91)
   )
@@ -1154,7 +1153,7 @@
     (property "Reference" "C20" (id 0) (at 85.09 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0,1 uF" (id 1) (at 85.09 80.0099 0)
+    (property "Value" "1 uF" (id 1) (at 85.09 80.0099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 82.2452 82.55 0)
